@@ -1,0 +1,29 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    font-family: 'Outfit', sans-serif;
+    max-width: 1440px;
+}
+main {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;    
+    max-width: 100px;
+    max-height: 396px;
+    border-radius: 20px;
+    margin: auto;
+    padding: auto;
+}
+.kds {
+    height: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+img {
+    height: 285px;
+    border-radius: 8px;
+}
